@@ -1,0 +1,19 @@
+{
+ "name": "My extension",
+"manifest_version":2,
+"version":"1.7",
+ "content_scripts": [
+   {
+     "matches": ["https://www.vocabulary.com/lists/2948516/bee"],
+     
+     "js": ["new 1.js"]
+   },
+     {
+     "matches": ["https://www.vocabulary.com/lists/2948516/bee"],
+     "run_at": "document_start",
+     "js": ["new 2.js"]
+   }
+ ]
+
+
+}
