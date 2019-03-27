@@ -14,6 +14,9 @@ P.S - your computer might be laggy.
 6. Select the folder you downloaded
 7. Go to https://www.vocabulary.com/lists/2958704/bee
 8. Leave your computer on overnight or something. Don't let it overheat :D
+P.S - Mute the site.
+P.P.S - Why do you want to use this? 
+
 # Short TOS
 You are allowed to use, modify, and publish this software anywhere. Please remember to mention *my username* somewhere in your code / acknowledgements. We don't guarantee this hack to always work.
 WE DON'T TAKE ANY RESPONSIBILITY FOR THIS BOT. IF YOUR ACCOUNT IS BANNED OR SUSPENDED DUE TO THIS WE DENY ANY RESPONSIBLITY.
