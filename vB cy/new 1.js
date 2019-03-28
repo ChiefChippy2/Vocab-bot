@@ -26,5 +26,8 @@ case 'dec': return "declaration"; break;
 setInterval(lol,200)
 setTimeout(function(){document.querySelector('#bee_complete > div.actions > button').click()},5000)
 window.confirm=function(){return true;}
-
+//This doesn't work so we need to add this below : 
+var s = document.createElement('script');
+s.innerHTML = "window.confirm= function(){return true;}"
+document.body.appendChild(s);
 //By © ChiefChippy2 2019
