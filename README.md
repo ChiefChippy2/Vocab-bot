@@ -1,5 +1,6 @@
 # Vocab-bot
 Bot for vocabulary.com; use it at your own risk
+After what has been an eternity, we have developed a Version 2 of this. Smarter, better, faster. See https://github.com/ChiefChippy2/Vocab-Bot-V2.
 # How it works
 It is a chrome extension that uses this list : https://www.vocabulary.com/lists/2958704/bee.
 Just go to the list and watch netflix for 3 hours
@@ -20,5 +21,3 @@ P.P.S - Why do you want to use this?
 # Short TOS
 You are allowed to use, modify, and publish this software anywhere. Please remember to mention *my username* somewhere in your code / acknowledgements. We don't guarantee this hack to always work.
 WE DON'T TAKE ANY RESPONSIBILITY FOR THIS BOT. IF YOUR ACCOUNT IS BANNED OR SUSPENDED DUE TO THIS WE DENY ANY RESPONSIBLITY.
-# Updates
-(none)
